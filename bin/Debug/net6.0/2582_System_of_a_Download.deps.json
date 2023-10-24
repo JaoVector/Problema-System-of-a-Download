@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2582_System_of_a_Download/1.0.0": {
+        "runtime": {
+          "2582_System_of_a_Download.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2582_System_of_a_Download/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

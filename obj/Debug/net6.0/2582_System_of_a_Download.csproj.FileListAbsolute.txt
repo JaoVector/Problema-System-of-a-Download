@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\bin\Debug\net6.0\2582_System_of_a_Download.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\bin\Debug\net6.0\2582_System_of_a_Download.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\bin\Debug\net6.0\2582_System_of_a_Download.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\bin\Debug\net6.0\2582_System_of_a_Download.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\bin\Debug\net6.0\2582_System_of_a_Download.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\2582_System_of_a_Download.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\2582_System_of_a_Download.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\2582_System_of_a_Download.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\2582_System_of_a_Download.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\2582_System_of_a_Download.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\2582_System_of_a_Download.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\refint\2582_System_of_a_Download.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\2582_System_of_a_Download.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\2582_System_of_a_Download.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2582_System_of_a_Download\obj\Debug\net6.0\ref\2582_System_of_a_Download.dll
